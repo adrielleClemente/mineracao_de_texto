@@ -1,2 +1,2 @@
-# mineracao_de_texto
+# Mineração de Texto
 Diretório destinado a projetos de mineração de texto e análise de sentimentos.
